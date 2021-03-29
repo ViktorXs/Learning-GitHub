@@ -6,4 +6,4 @@ This website will be really awesome!
 Updates made on master on GitHub before rebase
 
 # Repository Purpose #
-This fiel is just a readme file.
+This file is just a readme file.
