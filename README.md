@@ -1,6 +1,6 @@
 # Learning GitHub #
 Learning GitHub with @jasongtaylor 's Udemy Git Ultimate Course.
 
-Now editing from update-readme branch.
+This website will be really awesome!
 
-Another changes were made in the local update-readme branch now.
+This README.md is edited on the example Branch.
